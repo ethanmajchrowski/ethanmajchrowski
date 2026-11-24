@@ -9,12 +9,15 @@ Hi, I'm Ethan. I'm a Mechanical Engineering student at Colorado School of Mines 
 ## Featured Projects
 
 ### [Thrust Vector Model Rocket](https://github.com/ethanmajchrowski/TVC)
+![TVC CAD side view](/images/rocket_asm_side_view_angle.PNG)
 A personal model-rocketry project exploring thrust-vector control, mechanical gimbal design, and the integration of hardware and software into a control system.
 
-### [VEX Robotics](https://github.com/ethanmajchrowski/80550F_high_stakes)
+### [VEX Robotics Competition Programming](https://github.com/ethanmajchrowski/80550F_high_stakes)
+![Autonomous Robot](/images/frame.png)
 Competition code from the 2024-2025 season of VEX Robotics. Includes PID algorithms, a custom autonomous path follower, and the pure pursuit algorithm for robot movement.
 
 ### [VEX Autonomous GUI](https://github.com/ethanmajchrowski/VEX-Autonomous-GUI)
+![GUI for autonomous pathing](/images/vexGUI.png)
 A graphical tool for organizing and developing autonomous robotics routines, with an emphasis on making robot programming workflows easier to visualize and manage.
 
 ---
